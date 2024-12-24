@@ -8,19 +8,19 @@
 const musicList = [
   {
     name: "圣诞结",
-    url: "/root/music/圣诞结-陈奕迅.mp3",
+    url: "https://milkomeda98.github.io/christmas/music/圣诞结-陈奕迅.mp3",
   },
   {
     name: "回忆的圣诞节",
-    url: "../music/回忆的圣诞节.mp3",
+    url: "https://milkomeda98.github.io/christmas/music/回忆的圣诞节.mp3",
   },
   {
     name: "All I Want for Christmas Is You",
-    url: "../music/All I Want for Christmas Is You.mp3",
+    url: "https://milkomeda98.github.io/christmas/music/All I Want for Christmas Is You.mp3",
   },
   {
     name: "Last Christmas",
-    url: "../music/Last Christmas.mp3",
+    url: "https://milkomeda98.github.io/christmas/music/Last Christmas.mp3",
   },
 ];
 /**
