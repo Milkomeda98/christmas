@@ -8,19 +8,19 @@
 const musicList = [
   {
     name: "圣诞结",
-    url: "http://54.186.42.119/music/圣诞结-陈奕迅.mp3",
+    url: "../music/圣诞结-陈奕迅.mp3",
   },
   {
     name: "回忆的圣诞节",
-    url: "http://54.186.42.119/music/回忆的圣诞节.mp3",
+    url: "../music/回忆的圣诞节.mp3",
   },
   {
     name: "All I Want for Christmas Is You",
-    url: "http://54.186.42.119/music/All I Want for Christmas Is You.mp3",
+    url: "../music/All I Want for Christmas Is You.mp3",
   },
   {
     name: "Last Christmas",
-    url: "http://54.186.42.119/music/Last Christmas.mp3",
+    url: "../music/Last Christmas.mp3",
   },
 ];
 /**
