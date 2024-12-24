@@ -8,7 +8,7 @@
 const musicList = [
   {
     name: "圣诞结",
-    url: "../music/圣诞结-陈奕迅.mp3",
+    url: "music/圣诞结-陈奕迅.mp3",
   },
   {
     name: "回忆的圣诞节",
